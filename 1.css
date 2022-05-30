@@ -1,0 +1,25 @@
+*
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+p {
+    background: url(7vqd.gif);
+    
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+    font-size: 30px;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    
+  }
+

@@ -1,0 +1,48 @@
+body{
+	margin: 0;
+	padding: 0;	
+}
+#parent{position: relative}
+.red{background: url(https://gcdn.pbrd.co/images/MMrLGustjj2P.png); width:1920px; height:1080px; position: absolute; opacity:0,8;
+}
+.green{background: url(https://gcdn.pbrd.co/images/iMPClzrn7OkJ.png); width:1920px; height:1080px; position: absolute; opacity: 0.6;
+}
+.container{
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	align-items: center;
+	justify-content: center; 
+}
+.text{
+	height: 200px;
+	width: 420px;
+	background:url(7vqd.gif);
+	background-size: 2000px 200px;
+	font-size: 180px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+}
+#LOGO1{
+    position: absolute;
+    opacity: 0;
+    -webkit-transition: all;
+    -o-transition: all;
+    transition: all;
+}
+.LOGO1:hover {
+    -webkit-opacity: 0;
+    opacity: 0;
+}
+.LOGO2{
+    position: absolute;
+    opacity: 1;
+    -webkit-transition: all;
+    -o-transition: all;
+    transition: all;	
+}
+.LOGO2:hover {
+    -webkit-opacity: 1;
+    opacity: 0;
+}
