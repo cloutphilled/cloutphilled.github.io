@@ -10,7 +10,7 @@ function preload(){
 function setup() {
 
   noise.play();
-  noise.setVolume(0.2);
+  noise.setVolume(0.1);
   
   button2 = createButton("1");
   button1 = createButton("2");
