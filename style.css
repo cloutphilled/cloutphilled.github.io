@@ -10,8 +10,7 @@ canvas {
 
 p {
   background: url(7vqd.gif);
-  
-  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+  font-family: Impact, Helvetica, "Franklin Gothic Bold", "Arial Black", "sans-serif";
   font-size: 30px;
   -webkit-text-fill-color: transparent;
 	-webkit-background-clip: text;
