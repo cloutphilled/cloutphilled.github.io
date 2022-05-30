@@ -112,8 +112,8 @@ function setup() {
   button1 = createButton("98");
   button1 = createButton("99");
   button1 = createButton("100");
-     button.mousePressed(togglePlaying);
-     button2.mousePressed(toggleNoise);
+  button.mousePressed(togglePlaying);
+  button2.mousePressed(toggleNoise);
 }
 
 function togglePlaying() {
