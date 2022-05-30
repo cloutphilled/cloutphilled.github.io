@@ -1,7 +1,11 @@
-/* body{
-	margin: 0;
-	padding: 0;	
-} */
+body {
+	z-index: -1;
+	background-image: url(telos_background2.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #000000;
+	background-attachment: fixed;
+}
 #parent{position: relative}
 .red{background: url(https://gcdn.pbrd.co/images/MMrLGustjj2P.png); width:1920px; height:1080px; position: absolute; opacity:0,8;
 }
