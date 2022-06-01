@@ -14,7 +14,7 @@ body {
     bottom: 0;
     right: 0;
     z-index: -1;
-    background-image: url(Baggrund.png);
+    background-image: url(baggrund.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
