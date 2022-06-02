@@ -5,7 +5,6 @@ body {
 	background-size: cover;
 	background-color: #000000;
 	background-attachment: fixed;
-	padding-bottom: 25px;
 }
 
 #parent{position: relative}
