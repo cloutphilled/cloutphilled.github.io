@@ -25,7 +25,11 @@ System 1 is the automatic and fast part of the brain. You usually don't think ab
 System 2 is the slower system. It's concious and calculated and also uncormfortable because thinking requires effort. If you had to solve 16 x 23 = ? in your head, it would require effort and time. Hardcore clearly forces System 2 to be active for new users. This should also be expressed in the way the user gets the music to play in this project. When the desired action has not been performed 'Noise' will be present and when the desired action is performed the music plays while the noise disappears.
 
 ## Setup
-The application is web based so a browser is needed to run it. Head over to https://cloutphilled.github.io/ to run it.
+
+
+```
+Head over to https://cloutphilled.github.io/ to start the application.
+```
 
 ```
 Click one of the 4 buttons located at the bottom of the webpage.
